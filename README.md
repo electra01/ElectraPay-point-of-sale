@@ -11,14 +11,14 @@ We understood that their is a desire to accept Electra not just on an online sto
 
 
 ## Windows
-  - Download and run the installer.
+- <a href="https://github.com/Electra-project/ElectraPay-point-of-sale/releases/download/1.0/Electrapay_setup_v1.0.exe">Download and run the installer</a>
   
 ## Linux
-  - You should have version of openSSL >= 1.1.0 to run the application.
+- You should have version of openSSL >= 1.1.0 to run the application.
   
      Check your version by typing in terminal: `openssl version -a` and update if necessary.
 
-  - Download and run the installer.
+- <a href="https://github.com/Electra-project/ElectraPay-point-of-sale/releases/download/1.0/ElectraPay_Point_of_sale.run">Download and run the installer</a>
 
 ## Setup your application
 
